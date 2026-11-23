@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="Theme.ShatteredMarches" parent="Theme.AppCompat.NoActionBar">
-        <item name="android:windowFullscreen">false</item>
-        <item name="android:statusBarColor">#101A27</item>
-        <item name="android:navigationBarColor">#101A27</item>
-    </style>
-</resources>
