@@ -1,0 +1,60 @@
+{
+    "forest_herbalist_cache": {
+        "map": "world_map",
+        "x": 2,
+        "y": 1,
+        "name": "Herbalist's Field Kit",
+        "type": "cache",
+        "text": "A weatherproof field kit lies beneath a fallen tree, still stocked with medicine.",
+        "item": "Hi-Potion",
+        "quantity": 2
+    },
+    "ruined_camp": {
+        "map": "world_map",
+        "x": 3,
+        "y": 5,
+        "name": "Abandoned Road Camp",
+        "type": "cache",
+        "text": "The old camp is empty, but a hidden pouch remains beneath the cold firepit.",
+        "gold": 45,
+        "item": "Potion",
+        "quantity": 1
+    },
+    "graveyard_memorial": {
+        "map": "world_map",
+        "x": 10,
+        "y": 2,
+        "name": "The Silent Memorial",
+        "type": "story",
+        "text": "Names of the Marches' lost guardians are carved into black stone. A fresh inscription points toward the castle.",
+        "gold": 30
+    },
+    "graveyard_ambush": {
+        "map": "world_map",
+        "x": 8,
+        "y": 8,
+        "name": "Wraithlight Hollow",
+        "type": "battle",
+        "text": "Blue lights gather around the trail. A Wraith rises from the hollow!",
+        "enemy": "Wraith"
+    },
+    "mountain_waystone": {
+        "map": "world_map",
+        "x": 12,
+        "y": 11,
+        "name": "The High Waystone",
+        "type": "shrine",
+        "text": "A mountain waystone hums with old magic. The party feels its warmth and regains strength.",
+        "gold": 20
+    },
+    "wetland_survivor": {
+        "map": "world_map",
+        "x": 6,
+        "y": 11,
+        "name": "The Sunken Causeway",
+        "type": "cache",
+        "text": "A stranded traveler has left supplies in a dry satchel before continuing toward town.",
+        "item": "Potion",
+        "quantity": 2
+    }
+}
