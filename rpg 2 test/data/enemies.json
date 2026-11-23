@@ -1,0 +1,140 @@
+{
+    "Goblin": {
+        "max_hp": 20,
+        "max_mp": 0,
+        "strength": 5,
+        "defense": 2,
+        "exp_reward": 10,
+        "gold_reward": 5,
+        "behavior": "basic",
+        "drops": [{"item": "Goblin Ear", "chance": 0.65}]
+    },
+
+    "Wolf": {
+        "max_hp": 25,
+        "max_mp": 0,
+        "strength": 7,
+        "defense": 3,
+        "exp_reward": 15,
+        "gold_reward": 8,
+        "behavior": "aggressive"
+    },
+
+    "Snake": {
+        "max_hp": 18,
+        "max_mp": 0,
+        "strength": 6,
+        "defense": 1,
+        "exp_reward": 12,
+        "gold_reward": 6,
+        "behavior": "poison"
+    },
+
+    "Skeleton": {
+        "max_hp": 30,
+        "max_mp": 0,
+        "strength": 8,
+        "defense": 4,
+        "exp_reward": 20,
+        "gold_reward": 10,
+        "behavior": "basic"
+    },
+
+    "Zombie": {
+        "max_hp": 35,
+        "max_mp": 0,
+        "strength": 7,
+        "defense": 5,
+        "exp_reward": 25,
+        "gold_reward": 12,
+        "behavior": "drain"
+    },
+
+    "Ogre": {
+        "max_hp": 60,
+        "max_mp": 0,
+        "strength": 14,
+        "defense": 8,
+        "exp_reward": 50,
+        "gold_reward": 25,
+        "behavior": "heavy"
+    },
+
+    "Harpy": {
+        "max_hp": 40,
+        "max_mp": 0,
+        "strength": 10,
+        "defense": 4,
+        "exp_reward": 35,
+        "gold_reward": 18,
+        "behavior": "aggressive"
+    },
+    "Bandit": {
+        "max_hp": 28,
+        "max_mp": 0,
+        "strength": 8,
+        "defense": 2,
+        "exp_reward": 18,
+        "gold_reward": 15,
+        "behavior": "aggressive",
+        "drops": [{"item": "Red Knife Insignia", "chance": 0.8}]
+    },
+    "Slime": {
+        "max_hp": 35,
+        "max_mp": 0,
+        "strength": 5,
+        "defense": 6,
+        "exp_reward": 16,
+        "gold_reward": 4,
+        "behavior": "resilient",
+        "drops": [{"item": "Slime Gel", "chance": 0.8}]
+    },
+    "Shaman": {
+        "max_hp": 32,
+        "max_mp": 0,
+        "strength": 7,
+        "defense": 2,
+        "exp_reward": 28,
+        "gold_reward": 14,
+        "behavior": "support"
+    },
+    "Wraith": {
+        "max_hp": 38,
+        "max_mp": 0,
+        "strength": 11,
+        "defense": 5,
+        "exp_reward": 40,
+        "gold_reward": 20,
+        "behavior": "drain",
+        "drops": [{"item": "Wraith Essence", "chance": 0.7}]
+    },
+    "Wyvern": {
+        "max_hp": 75,
+        "max_mp": 0,
+        "strength": 16,
+        "defense": 7,
+        "exp_reward": 80,
+        "gold_reward": 45,
+        "behavior": "heavy",
+        "drops": [{"item": "Wyvern Scale", "chance": 0.75}]
+    },
+    "Dark Knight": {
+        "max_hp": 90,
+        "max_mp": 0,
+        "strength": 18,
+        "defense": 10,
+        "exp_reward": 120,
+        "gold_reward": 75,
+        "behavior": "heavy"
+    },
+    "Dread Captain": {
+        "max_hp": 140,
+        "max_mp": 0,
+        "strength": 22,
+        "defense": 12,
+        "exp_reward": 180,
+        "gold_reward": 120,
+        "behavior": "heavy",
+        "drops": [{"item": "Red Knife Insignia", "chance": 1.0}]
+    }
+}
